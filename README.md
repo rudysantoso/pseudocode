@@ -1,0 +1,2 @@
+# pseudocode
+tugas 2
